@@ -459,6 +459,11 @@ textarea {
     color: white;
     margin: auto 0px;
 }
+@media (max-width:450px) {
+    .footer p {
+        font-size: 14px;
+    }
+}
 
 .footer .paragraph p {
     color: WHITE !important;
